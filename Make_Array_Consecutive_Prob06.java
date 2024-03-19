@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Make_Array_Consecutive_Prob06 {
 
 	public static void main(String[] args) {
-		// input of the 
+		// input of the array 
 		Scanner scn = new Scanner(System.in);
 		System.out.print("Enter the size of the array :");
 		int n = scn.nextInt();
